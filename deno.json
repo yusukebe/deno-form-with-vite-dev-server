@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "@hono/vite-dev-server": "npm:@hono/vite-dev-server@^0.17.0",
+    "hono": "npm:hono@^4.6.15",
+    "vite": "npm:vite@^6.0.6"
+  },
+  "tasks": {
+    "dev": "vite"
+  },
+  "nodeModulesDir": "auto"
+}

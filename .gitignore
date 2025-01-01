@@ -1,0 +1,4 @@
+node_modules
+.vite
+package-lock.json
+deno.lock
